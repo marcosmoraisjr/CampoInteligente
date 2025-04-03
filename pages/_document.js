@@ -7,10 +7,8 @@ export default function Document() {
         <link rel="icon" href="/icone.ico" sizes="any" />
         <link rel="icon" type="image/png" href="/icon.png" />
       </Head>
-      <body>
         <Main />
         <NextScript />
-      </body>
     </Html>
   );
 }
